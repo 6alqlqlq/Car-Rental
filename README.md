@@ -1,5 +1,12 @@
 # Car Rental
  Web based system for renting of cars - PHP, MySQL
-C:\Users\Papaya\Downloads\diplomna Lachezar Bojilov\Snimki web
+Home Page
+![Alt text](https://i.postimg.cc/d17d720w/home.png "Home Page")
 
-![Alt text](C:\Users\Papaya\Downloads\diplomna Lachezar Bojilov\Snimki web\home.png "Optional Title")
+
+Cars Page
+![Alt text](https://i.postimg.cc/x1YKsN63/cars2.pngraw=true "Cars Page")
+
+
+Sing In Page
+![Alt text](https://i.postimg.cc/6QpCKJJ7/singin.pngraw=true "Cars Page")
